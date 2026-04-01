@@ -2,6 +2,11 @@
 
 ServiConnect is a professional Android application built to bridge the gap between local service providers (Plumbers, Electricians, etc.) and customers. 
 
+## 📲 Try the App
+Test the application immediately without compiling the code:
+* **[Download ServiConnect APK v1.0.0](https://github.com/m-ahmed735/ServiConnect/releases/download/v1.0.0/ServiConnect_v1.0.apk)**
+> **Note:** As this is a debug build, you may need to "Allow installs from unknown sources" on your Android device.
+
 ## 🚀 Key Features
 - **Dual User Roles:** Specialized interfaces for 'Seekers' (Customers) and 'Service Providers'.
 - **Dynamic Onboarding:** Role-based registration and real-time navigation routing.
